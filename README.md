@@ -13,8 +13,7 @@ The analysis revealed several key insights:
 ## Main Visualization
 
 **Safety Level by Ticket Class**
-![Safety Graph by Class](YOUR_GRAPH_IMAGE_URL)
-*Note: You must screenshot the graph from your notebook, upload it to the "Issues" tab on GitHub, and then copy the image link here.*
+![Safety Graph by Class](https://github.com/kalloong/portfolio-eda-titanic/issues/1#issue-3317167027)
 
 ## Tools Used
 * **Language:** Python 3
