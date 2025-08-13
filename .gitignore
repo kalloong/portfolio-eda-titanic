@@ -1,0 +1,4 @@
+# .gitignore
+
+# Ignore the specific file named .dist
+.dist
